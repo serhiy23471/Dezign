@@ -11,11 +11,15 @@ body {
     background-color: #010208;
 }
 
-.header__container {
+.container {
     max-width: 1245px;
     margin: 0 auto;
     padding: 0 15px;
 
+  
+}
+
+.header__container {
     display: flex;
     justify-content: space-between;
     align-items: center;
